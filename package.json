@@ -1,0 +1,23 @@
+{
+  "name": "strechbot",
+  "version": "1.0.0",
+  "description": "A slackbot that sends streching exercises thorughout the day via gif images",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humamhwr/StrechBot.git"
+  },
+  "author": "Humam Hawara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humamhwr/StrechBot/issues"
+  },
+  "homepage": "https://github.com/humamhwr/StrechBot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "slackbots": "^1.2.0"
+  }
+}
